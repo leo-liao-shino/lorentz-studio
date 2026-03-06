@@ -3,10 +3,10 @@ import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Shino | lorentz.studio",
+  title: "Lawrence Liao | lorentz.studio",
   description: "Software engineer, researcher, and builder. MS Computational Science & Engineering at Harvard.",
   openGraph: {
-    title: "Shino | lorentz.studio",
+    title: "Lawrence Liao | lorentz.studio",
     description: "Software engineer, researcher, and builder.",
     url: "https://lorentz.studio",
     siteName: "lorentz.studio",
