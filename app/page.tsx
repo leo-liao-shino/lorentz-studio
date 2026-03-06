@@ -165,7 +165,7 @@ export default function Home() {
             {">"} hello world
           </div>
           <h1 className="fade-up" style={{ fontSize: "clamp(36px, 6vw, 72px)", fontWeight: 600, lineHeight: 1.1, letterSpacing: "-0.02em", color: "var(--text)", marginBottom: 8 }}>
-            Shino
+            Lawrence Liao
           </h1>
           <div style={{ fontSize: "clamp(14px, 2vw, 18px)", color: "var(--text-muted)", marginBottom: 32, fontWeight: 300, height: 28 }}>
             {fullTitle.slice(0, typedIndex)}
